@@ -1,3 +1,7 @@
 Row added via Github desktop
 
+<<<<<<< HEAD
 added line via git desktop
+=======
+added line via git bash again
+>>>>>>> b5f63574c290e05b5d581755d42bcfee5f78947a
